@@ -1,6 +1,10 @@
-# ClientRoom
+# Room reservation management API
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4.
+
+This API was coded during Digital Innovation One course by Kamila Santos.
+
+
 
 ## Development server
 
